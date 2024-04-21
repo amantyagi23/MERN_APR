@@ -1,0 +1,6 @@
+HTML - Hyper text markup language 
+
+HTML - to create structure, web pages 
+
+XML - > complete <tags> </tags>
+Markup language - tags ->  <div>  </div> 90% 
